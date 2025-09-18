@@ -1,0 +1,13 @@
+Link 2 3 4 5 6 Mass:
+w2 = 10 lbm
+w3 = 40 lbm
+w4 = 45 lbm
+w5 = 20 lbm
+w6 = 25 lbm
+
+new Mass:
+w2 = 50 lbm
+w3 = 200 lbm
+w4 = 225 lbm
+w5 = 100 lbm
+w6 = 125 lbm
