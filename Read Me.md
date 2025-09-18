@@ -1,6 +1,6 @@
 # Mechanism Analysis and Simulation (Machine Dynamics Project)  
 
-📌 Project Overview  
+## 📌 Project Overview  
 This project investigates the kinematic and dynamic analysis of a planar mechanism using manual calculations, SolidWorks Motion Analysis, ADAMS, and MATLAB.  
 The report covers:  
 1. Graphical and analytical methods for position, velocity, and acceleration.  
